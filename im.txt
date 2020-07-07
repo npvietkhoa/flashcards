@@ -1,0 +1,7 @@
+German:Berlin
+America:NY
+Vietnam:Hanoi
+Japan:Tokyo
+Korea:Seoul
+France:Paris
+China:Bejing
