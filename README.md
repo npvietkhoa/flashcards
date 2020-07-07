@@ -1,1 +1,2 @@
-# flashcards
+# Flashcards
+Flashcards project from Hyperskill
