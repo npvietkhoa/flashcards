@@ -1,4 +1,4 @@
-German:Berlin
+Germany:Berlin
 America:NY
 Vietnam:Hanoi
 Japan:Tokyo
