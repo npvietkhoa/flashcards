@@ -1,2 +1,2 @@
 # Flashcards
-Flashcards project from Hyperskill
+Let's learn Flashcards on terminal with statistic ;)
